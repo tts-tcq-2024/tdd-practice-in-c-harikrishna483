@@ -1,3 +1,3 @@
-int add(const char *int){
+int add(const char* int){
   return -1;
 }
